@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66e71f84e122017419af8401b682667b, type: 3}
+  m_Name: AirpodsMax
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1035165056017585486, guid: cc7ee15e6c2f8ee428797e1225fc753b, type: 3}
+  meshes:
+  - {fileID: 7263822131669008361, guid: 7fe90260838034649be6a27c9bf6ffab, type: 3}
+  - {fileID: 3209398432785331103, guid: 12fba1f981c1fff488da83a6cfa417c3, type: 3}
+  - {fileID: 2890693597579816176, guid: 7e754b62b1ea8314a80ecce977806f88, type: 3}
+  - {fileID: 373877653661141854, guid: 93ffd6ff440a6b048a646c2c334b0a6d, type: 3}
+  - {fileID: 7367782749242531462, guid: b84e02283b2252c4aa6b92fcf75dff45, type: 3}
+  - {fileID: 4819451636565476218, guid: f90c561d4c45abb46aea37b3498d3288, type: 3}
+  - {fileID: 939615722065549908, guid: 620bd964c6a438d4098d38cc98a52c1f, type: 3}
+  - {fileID: 2958907034903302962, guid: 6493ab278fbf0e94aa5f7b1b8de57643, type: 3}
+  - {fileID: 1446916257473458812, guid: c98952736be6dac4894feb2896b68b14, type: 3}
+  - {fileID: 1535037353389674178, guid: c6232884424d48b418434be6d13f66a7, type: 3}
+  - {fileID: 85790172162077020, guid: 57583d4a0886d484baf8f3dd4cee285b, type: 3}
+  - {fileID: 3339315026874715889, guid: 604afadad9c11894ab0239137b792c91, type: 3}
+  - {fileID: 3242325396395759883, guid: 1c26df44153cc4c43abc2f6543137dc5, type: 3}
+  - {fileID: 4849934846049062845, guid: b00f4eaebc8aab34c86dfb37f047eb10, type: 3}
+  - {fileID: 5545084034548768636, guid: 02001256337a9a54c994dcc1841f03ae, type: 3}
+  - {fileID: 5976126695514355516, guid: b40fa3f80f02c7341a3d4a3ea930ade8, type: 3}
+  isUse: 1
